@@ -1,0 +1,13 @@
+
+PASOS PARA VINCULAR MI REPOSTORIO LOCAL CON GITHUB
+COMANDOS:
+1-	git config user.name “Matias-Boiero”
+2-	git config user.email “maty_boiero@hotmail.com”
+3-	git remote add origin “https://github.com/Matias-Boiero/PruebaGit.git”
+
+comandos de consultas:
+git status: Sirve pata consultar el estado del repositorio y sus archivos (si están o no agregados)
+git add: Sirve para agregar archivos
+git commit -m: Aquí agrego un mensaje junto al commit, uso commit para agregar definitivamente el archivo al repositorio.
+git push -u origin master (o root): se usa para pasar los archivos locales al repositorio remoto
+
