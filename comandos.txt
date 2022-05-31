@@ -12,6 +12,6 @@ git commit -m: Aquí agrego un mensaje junto al commit, uso commit para agregar 
 git push -u origin master (o root): se usa para pasar los archivos locales al repositorio remoto
 git clone (a continuación pego la dirección de mi repositorio que esta en la barra de nav): Sirve para clonar de cero un repositorio completo desde remoto a local
 git clone https://github.com/Matias-Boiero/PruebaGit
-git pull origin root (o master): sirve para traer al repositorio local alguna modificación puntual que haya echo algún colaborador del proyecto en el repositorio original)
+git pull origin root (o master): sirve para traer al repositorio local alguna modificación puntual que haya echo algún colaborador del proyecto en el repositorio original
 
 
